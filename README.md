@@ -1,6 +1,4 @@
-# Breezi – Support
-
-Welcome to the support page for the Breezi app.
+## Welcome to the support page for the Breezi app.
 
 If you have any questions, feedback or bug reports, feel free to reach out:
 
